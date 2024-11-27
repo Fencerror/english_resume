@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fencerror/english_resume.git/static/css/main.2c60a39b.css",
-    "main.js": "/Fencerror/english_resume.git/static/js/main.89690679.js",
-    "static/js/453.04fa46cf.chunk.js": "/Fencerror/english_resume.git/static/js/453.04fa46cf.chunk.js",
-    "index.html": "/Fencerror/english_resume.git/index.html",
-    "main.2c60a39b.css.map": "/Fencerror/english_resume.git/static/css/main.2c60a39b.css.map",
-    "main.89690679.js.map": "/Fencerror/english_resume.git/static/js/main.89690679.js.map",
-    "453.04fa46cf.chunk.js.map": "/Fencerror/english_resume.git/static/js/453.04fa46cf.chunk.js.map"
+    "main.css": "/english_resume/static/css/main.2c60a39b.css",
+    "main.js": "/english_resume/static/js/main.69d1b5fc.js",
+    "static/js/453.04fa46cf.chunk.js": "/english_resume/static/js/453.04fa46cf.chunk.js",
+    "index.html": "/english_resume/index.html",
+    "main.2c60a39b.css.map": "/english_resume/static/css/main.2c60a39b.css.map",
+    "main.69d1b5fc.js.map": "/english_resume/static/js/main.69d1b5fc.js.map",
+    "453.04fa46cf.chunk.js.map": "/english_resume/static/js/453.04fa46cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c60a39b.css",
-    "static/js/main.89690679.js"
+    "static/js/main.69d1b5fc.js"
   ]
 }
